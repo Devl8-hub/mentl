@@ -1,0 +1,4 @@
+flask
+flask-login
+firebase-admin
+python-dotenv
