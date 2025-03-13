@@ -64,7 +64,7 @@ MentL is a Flask-based web application designed to help users track and manage t
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/sortira/MentL>
+    git clone <https://github.com/Devl8-hub/mentl>
     cd <MentL>
     ```
 
